@@ -1,0 +1,76 @@
+.form_main_amountSection{
+    margin: 1rem auto;
+}
+
+.form_main_amountSection label{
+    display: block;
+    text-align: center;
+    color: rgb(114, 114, 114);
+    font-size: 1.1rem;
+}
+
+.form_main_amountSection input{
+    display: block;
+    width: 14rem;
+    height: 2rem;
+    margin: 1.5rem auto;
+}
+
+hr{
+    margin: 2.5rem auto;
+}
+
+.form_main_serviceSection{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form_main_service{
+    margin: 0 auto;
+}
+
+.form_main_service label{
+    display: block;
+    text-align: center;
+    color: rgb(73, 72, 72);
+}
+
+.form_main_service select{
+    display: block;
+    margin: 1rem auto;
+    width: 8rem;
+    height: 2rem;
+}
+
+.form_main_customer{
+    margin: 0 auto;
+}
+
+.form_main_customer label{
+    color: rgb(73,72,72);
+}
+
+.form_main_customer input{
+    display: block;
+    width: 12rem;
+    height: 1.5rem;
+    margin: 1rem auto;
+}
+
+.form_main_customer button{
+    display: block;
+    margin: 1rem auto;
+    padding: 0.6rem 0.7rem;
+    background-color: rgb(92, 18, 92);
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 1px 2px rgba(92, 18, 92);
+    color: #fff;
+    border-radius: 4px;
+    transition: all 1s ease-in-out;
+}
+
+.form_main_customer button:hover{
+    background-color: rgba(128, 0, 128, 0.884);
+    border-radius: 8px;
+}
+

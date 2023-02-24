@@ -1,0 +1,17 @@
+.header_main{
+    background-color: rgba(0, 102, 255, 0.801);
+}
+
+.header_main_heading{
+    text-align: center;
+    padding: 0.4rem;
+    color: rgba(8, 31, 22, 0.774);
+    font-size: 1rem;
+}
+
+.header_main_text{
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 0.4rem;
+    color: rgba(255, 255, 255, 0.74);
+}

@@ -1,0 +1,17 @@
+.CustomerList_head{
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.CustomerList_head h3{
+    font-size: 1.3rem;
+    color: rgb(54, 54, 54);
+}
+
+.CustomerList_list{
+    padding-left: 1rem;
+}
+
+p{
+    font-weight: bold;
+}

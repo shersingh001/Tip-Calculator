@@ -1,0 +1,28 @@
+.table_container_btn{
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.table_container_btn button{
+    padding: 0.9rem 0.8rem;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+.table_container_btn button:hover{
+    background-color: rgba(158, 86, 224, 0.925);
+    font-size: 0.82rem;
+}
+
+.table_container table{
+    width: 100%;
+}
+
+.table_container table, th, td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    text-align: center;
+}

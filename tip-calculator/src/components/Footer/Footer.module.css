@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgb(75, 71, 71);
+    margin-top: 2rem;
+}
+
+.footer p{
+    text-align: center;
+    color: aliceblue;
+}
